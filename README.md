@@ -39,9 +39,9 @@ Display the test accuracy, confusion matrix, and classification report.
 
 ## PROGRAM
 
-### Name: Jayagar.T
+### Name: Sunil.A
 
-### Register Number: 212224220042
+### Register Number: 212224220113
 
 ```python
 import torch
